@@ -11,6 +11,9 @@
 * Run the setup.py file
 * Open the show in Multiplay
 
+### System Requirements ###
+* Python 2.7
+
 ### Contact ###
 
 * Jack McKernan

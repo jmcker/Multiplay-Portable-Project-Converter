@@ -1,9 +1,5 @@
 # Multiplay Portable Project Converter #
 
-
-
-### What is this repository for? ###
-
 * Converts Multiplay theater cue projects into portable folders, copying all dependencies from the local source.
 * v1.1
 

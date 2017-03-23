@@ -3,12 +3,15 @@
 * Converts Multiplay theater cue projects into portable folders, copying all dependencies from the local source.
 * v1.1
 
-### How do I get set up? ###
+### Setup ###
 
 * Run the converter.py file
 * Select the XML show file to be converted
+* Copy the portable project folder anywhere
+* Run the setup.py file
+* Open the show in Multiplay
 
-### Who do I talk to? ###
+### Contact ###
 
 * Jack McKernan
 * jmcker@outlook.com

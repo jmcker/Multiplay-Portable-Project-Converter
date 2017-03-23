@@ -1,6 +1,6 @@
-# README #
+# Multiplay Portable Project Converter #
 
-This README would normally document whatever steps are necessary to get your application up and running.
+
 
 ### What is this repository for? ###
 
@@ -9,18 +9,8 @@ This README would normally document whatever steps are necessary to get your app
 
 ### How do I get set up? ###
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
+* Run the converter.py file
+* Select the XML show file to be converted
 
 ### Who do I talk to? ###
 

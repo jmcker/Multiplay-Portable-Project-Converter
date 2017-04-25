@@ -19,4 +19,4 @@ v1.1
 ### Contact ###
 
 * Jack McKernan
-* jmcker@outlook.com
+* [jmcker@outlook.com](mailto:jmcker@outlook.com)

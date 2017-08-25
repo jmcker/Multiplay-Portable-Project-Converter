@@ -1,8 +1,9 @@
 # Multiplay Portable Project Converter #
 
-Converts Multiplay projects that depend on local audio files into movable, self-contained projects. All necessary files are copied into a portable project folder, which can be moved to and used in a different folder or computer. 
-
+Converts Multiplay projects that depend on local audio files into portable, self-contained projects. All necessary files are copied into a project folder, which can be moved to and used in a different directory or on a seperate backup machine.
 v1.1
+
+This tool greatly improves on the idea of Multiplay's *Archive* function.
 
 ### Setup ###
 

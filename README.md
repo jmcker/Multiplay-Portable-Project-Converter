@@ -5,6 +5,9 @@ v1.1
 
 This tool greatly improves on the idea of Multiplay's *Archive* function.
 
+### Download ###
+[Download for all systems running Python 2.7](https://github.com/jmcker/Multiplay-Portable-Project-Converter/files/1254675/Multiplay-Portable-Project-Converter-v1.1.zip)
+
 ### Setup ###
 
 1. Run converter.py
@@ -16,7 +19,7 @@ This tool greatly improves on the idea of Multiplay's *Archive* function.
 7. Anytime the portable folder is moved, run the setup.py script before opening in Multiplay
 
 ### System Requirements ###
-* Python 2.x
+Python 2.7 (available [here](https://www.python.org/ftp/python/2.7.14/python-2.7.14rc1.amd64.msi) for 64-bit Windows)
 
 ### Contact ###
 

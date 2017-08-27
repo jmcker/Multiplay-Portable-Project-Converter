@@ -13,7 +13,7 @@ def main(args):
     
     Tk().withdraw() # Prevent full GUI
     filetypes = [('All Files','.*'),('XML files','.XML')]
-    oldXmlFilepath = askopenfilename(filetypes = filetypes, multiple = False, title = "Select the XML file of the project to copy...")
+    oldXmlFilepath = askopenfilename(filetypes = filetypes, multiple = False, title = "Select the XML file of the project to setup...")
     if oldXmlFilepath == "":
         exit()
     oldXmlFilepath = os.path.normpath(oldXmlFilepath) # Replace forward slashes with backward slashes

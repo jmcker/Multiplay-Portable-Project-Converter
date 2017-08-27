@@ -23,4 +23,4 @@ Python 2.7 (available [here](https://www.python.org/ftp/python/2.7.14/python-2.7
 
 ### Contact ###
 
-* Jack McKernan ([jmcker@outlook.com](mailto:jmcker@outlook.com))
+Jack McKernan ([jmcker@outlook.com](mailto:jmcker@outlook.com))
